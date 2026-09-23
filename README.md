@@ -75,6 +75,3 @@ In Jupyter: **Kernel → Restart & Run All**
 - `matplotlib` — base plotting
 - `seaborn` — statistical visualisation
 - `jupyter` / `notebook` — interactive environment
-
-##DATA SOURCE
-DATA SOURCED FROM Kaggle UNDER CC0 PUBLIC DOMAIN
