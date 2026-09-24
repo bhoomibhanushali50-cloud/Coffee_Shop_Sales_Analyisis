@@ -162,4 +162,7 @@ Install all at once:
 
 ---
 
-*Coffee Shop Sales Analysis — Bhoomi Katarmal — June 2025*
+*Coffee Shop Sales Analysis — Bhoomi Katarmal — SEPTEMBER 2026*
+
+SOuRCE DATASET USED FROM KAGGLE
+
